@@ -1,6 +1,6 @@
 # 🚀 ifritov-fastfetch
 
-![Preview](screenshot.png)
+![Preview](ifritov-fastfetch.png)
 
 ## 🛠 Installation
 
